@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  UIKitTest1
+//  UIKitTest2
 //
 //  Created by M K on 01.02.2024.
 //
